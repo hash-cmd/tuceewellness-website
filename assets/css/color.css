@@ -1,0 +1,9 @@
+:root {
+  --primary: rgb(255, 72, 0);
+  --primary-light: rgb(243, 102, 46);
+  --secondary: rgb(0, 3, 43);
+  --bg-gray: rgb(255, 255, 255);
+  --text-dark: rgb(34, 34, 34);
+  --text-light: rgb(255, 255, 255);
+  --transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.1);
+}
